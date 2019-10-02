@@ -1,25 +1,25 @@
 EAGLE AutoRouter Statistics:
 
-Job           : /Users/carlos/Documents/EAGLE/projects/The Extender/The Extender PCB.brd
+Job           : I:/Electronics/Keyboard/The Extender/The-Extender/PCB files/The Extender PCB.brd
 
-Start at      : 18:11:02 (29.09.19)
-End at        : 18:11:22 (29.09.19)
-Elapsed time  : 00:00:09
+Start at      : 22:56:54 (02.10.2019)
+End at        : 01:00:00 (01.01.1970)
+Elapsed time  : 00:00:00
 
-Signals       :    77   RoutingGrid: 25 mil  Layers: 2
-Connections   :   260   predefined:  9 ( 0 Vias )
+Signals       :   120   RoutingGrid: 19.685 mil  Layers: 2
+Connections   :   415   predefined:  0 ( 0 Vias )
 
-Router memory :   340956
+Router memory :   0
 
-Passname          :    Busses     Route Optimize1 Optimize2 Optimize3 Optimize4
+Passname          :          
 
-Time per pass     :  00:00:00  00:00:02  00:00:01  00:00:02  00:00:01  00:00:03
-Number of Ripups  :         0         0         0         0         0         0
-max. Level        :         0         0         0         0         0         0
-max. Total        :         0         0         0         0         0         0
+Time per pass     :  00:00:00
+Number of Ripups  :         0
+max. Level        :         0
+max. Total        :         0
 
-Routed            :       108       250       250       250       250       250
-Vias              :         0       130        39        28        27        27
-Resolution        :    45.0 %    99.6 %    99.6 %    99.6 %    99.6 %    99.6 %
+Routed            :         0
+Vias              :         0
+Resolution        :     0.0 %
 
 Final             : 
