@@ -1,0 +1,31 @@
+ PATH  FOUND 
+SVG scale factor = 1.000000
+SVG offset = 4.650000,0.000000
+POLYGON  0)
+	raw = 0.00,11.17	coord = 4.65,11.17
+End polygon at 4.65,0.00
+
+ PATH  FOUND 
+SVG scale factor = 1.000000
+SVG offset = 4.650000,0.000000
+POLYGON  1)
+	raw = 0.00,7.48	coord = 9.30,7.48
+End polygon at 4.65,0.00
+
+ PATH  FOUND 
+SVG scale factor = 1.000000
+SVG offset = 4.650000,0.000000
+POLYGON  2)
+	raw = 0.00,6.86	coord = 9.30,6.86
+End polygon at 4.65,0.00
+
+
+Object origin:
+2.325000 5.585000
+
+Eagle Command:
+set wire_bend 2;
+change layer tNames;
+set width 0.000500;
+poly (R -0.023250 -0.055850) (R -0.023250 0.055850) (R 0.023250 -0.018950) (R -0.023250 0.055850) (R 0.023250 -0.012750) (R -0.023250 0.055850);
+
