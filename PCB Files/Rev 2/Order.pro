@@ -1,27 +1,27 @@
 EAGLE AutoRouter Statistics:
 
-Job           : I:/Electronics/Keyboard/The Extender/The-Extender/PCB Files/Rev 2/Order.brd
+Job           : I:/Electronics/Keyboard/Order/Order/PCB Files/Rev 2/Order.brd
 
-Start at      : 18:32:20 (14.10.2019)
-End at        : 18:41:58 (14.10.2019)
-Elapsed time  : 00:09:34
+Start at      : 11:04:39 (16.10.2019)
+End at        : 11:09:02 (16.10.2019)
+Elapsed time  : 00:04:21
 
-Signals       :   132   RoutingGrid: 6 mil  Layers: 2
-Connections   :   469   predefined:  0 ( 0 Vias )
+Signals       :   138   RoutingGrid: 6 mil  Layers: 2
+Connections   :   480   predefined:  113 ( 0 Vias )
 
-Router memory :   12017460
+Router memory :   11182860
 
 Job has been interrupted!
 
-Passname          : TopRouter     Route Optimize1 Optimize2 Optimize3 Optimize4 Optimize5 Optimize6
+Passname          : TopRouter     Route Optimize1 Optimize2 Optimize3 Optimize4 Optimize5 Optimize6 Optimize7 Optimize8 Optimize9Optimize10
 
-Time per pass     :  00:02:58  00:00:31  00:01:19  00:00:57  00:01:00  00:00:57  00:00:59  00:00:53
-Number of Ripups  :         0         0         0         0         0         0         0         0
-max. Level        :         0         0         0         0         0         0         0         0
-max. Total        :         0         0         0         0         0         0         0         0
+Time per pass     :  00:01:36  00:00:04  00:00:25  00:00:16  00:00:16  00:00:16  00:00:15  00:00:16  00:00:18  00:00:18  00:00:17  00:00:04
+Number of Ripups  :         0         0         0         0         0         0         0         0         0         0         0         0
+max. Level        :         0         0         0         0         0         0         0         0         0         0         0         0
+max. Total        :         0         0         0         0         0         0         0         0         0         0         0         0
 
-Routed            :       315       469       467       469       469       469       469       469
-Vias              :         0        96       191        78        65        59        57        57
-Resolution        :    67.2 %   100.0 %    99.6 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
+Routed            :       332       367       367       367       367       367       367       367       367       367       367       367
+Vias              :         0         5        34        25        21        20        18        18        19        17        17        17
+Resolution        :    92.7 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
 
 Final             : 100.0% beendet
