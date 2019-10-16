@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.1">
+<eagle version="9.5.0">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="1" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="1" altunitdist="mm" altunit="mm"/>
@@ -164,13 +164,10 @@
 <board>
 <fusionsync huburn="a.cGVyc29uYWw6dWUyYmE3ZDZl" projecturn="a.cGVyc29uYWw6dWUyYmE3ZDZlIzIwMTcwNTA1NzQ4NTIyODE" f3durn="urn:adsk.wipprod:dm.lineage:fKoZoYExQIGyD3Ivznj5PA" pcbguid="44c3af06-68bf-4ede-b817-4d9e09ccb1ad" lastpulledtime="" lastsyncedchangeguid="10bde60a-d277-15fa-c228-30d606f70f1a"/>
 <plain>
-<text x="538" y="40" size="1.778" layer="25" rot="R90">Order (5x15 keys)
+<text x="298.295" y="37.8764" size="1.778" layer="26" rot="MR90">Order (5x15 keys)
 Powered by QMK Firmware
 by Carlos Rödiger
-designed and manufactured
-in Hanover, Germany
-Version V0.1
-https://github.com/FrancTheCat/Order</text>
+</text>
 <text x="311" y="38" size="1.778" layer="25" rot="R90">JLCJLCJLCJLC</text>
 <wire x1="324" y1="109" x2="324" y2="2" width="0.1524" layer="20"/>
 <wire x1="324" y1="2" x2="322" y2="0" width="0.1524" layer="20" curve="-90"/>
@@ -258,6 +255,9 @@ https://github.com/FrancTheCat/Order</text>
 <hole x="95.5" y="19.5" drill="2"/>
 <hole x="190.5" y="19.5" drill="2"/>
 <dimension x1="-11" y1="111" x2="-11" y2="0" x3="-12.5" y3="55.5" textsize="1.778" layer="25"/>
+<text x="322.6562" y="86.8934" size="1.778" layer="26" rot="MR270">designed and manufactured
+in Hanover, Germany
+Version V0.1 https://github.com/FrancTheCat/Order </text>
 </plain>
 <libraries>
 <library name="adafruit">
