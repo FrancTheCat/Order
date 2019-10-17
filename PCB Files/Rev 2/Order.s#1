@@ -19967,16 +19967,12 @@ EC12E series with push-on switch</description>
 <wire x1="134.62" y1="-41.91" x2="134.62" y2="-40.64" width="0.1524" layer="91"/>
 <label x="134.62" y="-40.64" size="1.778" layer="95"/>
 </segment>
-</net>
-<net name="N$119" class="0">
 <segment>
 <pinref part="U$52" gate="G$1" pin="LED-"/>
 <wire x1="194.31" y1="-85.09" x2="195.58" y2="-85.09" width="0.1524" layer="91" style="longdash"/>
 <wire x1="195.58" y1="-85.09" x2="195.58" y2="-83.82" width="0.1524" layer="91" style="longdash"/>
 <label x="195.58" y="-83.82" size="1.778" layer="95"/>
 </segment>
-</net>
-<net name="LED-\" class="0">
 <segment>
 <pinref part="U$70" gate="G$1" pin="LED-"/>
 <wire x1="285.75" y1="-107.95" x2="287.02" y2="-107.95" width="0.1524" layer="91" style="longdash"/>
